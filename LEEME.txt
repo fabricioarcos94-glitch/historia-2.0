@@ -1,0 +1,7 @@
+NUESTRA HISTORIA CON LISSET — EDICIÓN AMPLIADA
+
+Abre index.html en Chrome o Edge. Pulsa «Iniciar historia».
+13 escenas, animación 2D mejorada, movimientos de cámara, gestos, caminatas, abrazos, partículas y transiciones.
+La canción se reproduce mediante YouTube y requiere Internet; algunos navegadores o restricciones de YouTube pueden impedir el audio incrustado.
+Puedes pausar, reanudar, retroceder, avanzar y silenciar.
+Para publicar en GitHub Pages, sube el contenido de esta carpeta a un repositorio.
